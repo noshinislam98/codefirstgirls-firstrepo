@@ -1,0 +1,12 @@
+.main-content{
+  color: blue;
+  font-family: sans-serif;
+}
+
+.main-content h2{
+  color: red;
+}
+
+p{
+  columns: 3;
+}
